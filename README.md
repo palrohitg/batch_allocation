@@ -71,7 +71,12 @@ Don’t use any databases.
 
 
 
-Send your code to below email
+### steps to run 
 
+```python3 
+python3 batch_allocation_system.py
+```
+
+Send your code to below email
 
 
